@@ -1,0 +1,33 @@
+
+#background-image {
+    background-image: url('/JEWELRY/static/img/background-image.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.intro {
+  position: relative;
+}
+
+@media (min-width: 1200px) {
+	.intro .intro-text {
+		width: 45%;
+	}
+}
+
+@media (min-width: 992px) {
+	.intro .intro-img {
+		width: 700px;
+		height: 850px;
+		float: left;
+	}
+	.intro .intro-text {
+		left: 400px;
+		top: 300px;
+		width: 50%;
+		margin-top: 3rem;
+		position: absolute;
+	}
+}
