@@ -2,7 +2,7 @@
     require("../components/navbar.php"); 
     require("../utilities_php/utilities.php");
 ?>
-<link rel="stylesheet" href="/JEWELRY/static/css/base.css">
+<link rel="stylesheet" href="../static/css/base.css">
 
 <section>
     <div class="container">

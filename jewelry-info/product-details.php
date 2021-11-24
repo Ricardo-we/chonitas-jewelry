@@ -12,7 +12,7 @@
     }
 ?>
 
-    <link rel="stylesheet" href="/JEWELRY/static/css/shop.css">
+    <link rel="stylesheet" href="../static/css/shop.css">
     <main class="product-displayer">
         <div class="img-title-container">
             <div class="product-info-img-container">

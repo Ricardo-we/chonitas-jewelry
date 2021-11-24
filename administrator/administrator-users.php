@@ -5,7 +5,7 @@
 
 <section class="container-fluid">
 
-    <form action="/JEWELRY/utilities_php/check_actions.php" method="POST" class="pt-3 pb-3" id="user_form">
+    <form action="../utilities_php/check_actions.php" method="POST" class="pt-3 pb-3" id="user_form">
         <input type="hidden" name="add_user">
         <div class="form-group">
             <label for="title" class="label">User</label>
@@ -27,7 +27,7 @@
     </table>
 </section>
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-<script src="/JEWELRY/static/js/check-forms.js"></script>
+<script src="../static/js/check-forms.js"></script>
 
 <script>
     const userForm = document.getElementById('user_form');

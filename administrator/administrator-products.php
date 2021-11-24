@@ -5,7 +5,7 @@
 
 <section class="container-fluid">
 
-    <form action="/JEWELRY/utilities_php/check_actions.php" method="POST" class="pt-3 pb-3" enctype="multipart/form-data" id="form">
+    <form action="../utilities_php/check_actions.php" method="POST" class="pt-3 pb-3" enctype="multipart/form-data" id="form">
         <input type="hidden" name="save_product">
         <div class="form-group">
             <label for="title" class="label">Titulo</label>
@@ -37,6 +37,6 @@
     </table>
 </section>
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-<script src="/JEWELRY/static/js/check-forms.js"></script>
+<script src="../static/js/check-forms.js"></script>
 </body>
 </html>

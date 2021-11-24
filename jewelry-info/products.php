@@ -16,5 +16,5 @@
 <section class="products-container">
 <?php echo show_products();?>
 </section>
-<script src="/JEWELRY/static/js/search.js"></script>
+<script src="../static/js/search.js"></script>
 <?php require("../components/footer.php") ?>
