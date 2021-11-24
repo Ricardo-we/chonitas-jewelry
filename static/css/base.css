@@ -1,6 +1,6 @@
 
 #background-image {
-    background-image: url('/JEWELRY/static/img/background-image.jpg');
+    background-image: url('../static/img/background-image.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
