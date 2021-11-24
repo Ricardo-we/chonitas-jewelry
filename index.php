@@ -1,5 +1,5 @@
 <?php require("components/navbar.php") ?>
-<link rel="stylesheet" href="/JEWELRY/static/css/base.css">
+<link rel="stylesheet" href="static/css/base.css">
 <!-- QUIENES SOMOS -->
 
 <section class="page-section clearfix">
