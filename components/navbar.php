@@ -23,7 +23,7 @@
           <a class="nav-link" href="../index.php"><i class="fas fa-home"></i> Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="../jewelry-info/products.php"><i class="fas fa-shopping-basket"></i> Products</a>
+          <a class="nav-link" href="jewelry-info/products.php"><i class="fas fa-shopping-basket"></i> Products</a>
         </li>
         <!-- <li class="nav-item">
           <a class="nav-link" href="/JEWELRY/jewelry-info/about-us.php"><i class="fas fa-user-friends"></i> About us</a>

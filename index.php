@@ -1,5 +1,6 @@
 <?php require("components/navbar.php") ?>
 <link rel="stylesheet" href="static/css/base.css">
+<link rel="stylesheet" href="static/dependencies/bootstrap.min.css">
 <!-- QUIENES SOMOS -->
 
 <section class="page-section clearfix">
@@ -20,7 +21,7 @@
 
 
 <section class="bg-dark p-5 mt-3" style="width: 100%;">
-    <div class="container-sm text-center bg-light p-5 rounded text-black" style="width: 60%;">
+    <div class="container-sm text-center bg-light p-2 rounded text-black">
         <h2 class="section-heading mb-4">¿Cómo adquirir nuestros productos?</h2>
         <p class="mb-3">
             Para realizar tu compra escribenos a nuestro whatsapp y haces el pedido o si tienes
